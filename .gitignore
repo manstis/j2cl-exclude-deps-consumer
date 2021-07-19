@@ -1,0 +1,21 @@
+target/
+.idea
+**/.DS_Store
+*.log*
+**/stats.json
+**/junit.xml
+
+# Eclipse, Netbeans and IntelliJ files
+/.*
+!.github
+!.gitignore
+!.jenkins
+!.mvn
+/nbproject
+/*.ipr
+/*.iws
+**/*.iml
+.classpath
+.project
+.settings
+.vscode
